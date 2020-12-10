@@ -7,7 +7,7 @@ const rootElement = document.getElementById("root");
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <AppTany/>
+    {/* <NeoG/> */}
   </React.StrictMode>,
   rootElement
 );
