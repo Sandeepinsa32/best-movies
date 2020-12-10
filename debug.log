@@ -1,0 +1,5 @@
+[1210/095941.630:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1210/121759.789:ERROR:process_info.cc(359)] UncheckedAllocate
+[1210/121759.888:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\sandee\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a4a8c5a8-8111-469d-9a6d-e4b21fa30044: The system cannot find the path specified. (0x3)
+[1210/122004.686:ERROR:process_info.cc(359)] UncheckedAllocate
+[1210/122031.993:ERROR:http_transport_win.cc(349)] WinHttpWriteData: The operation completed successfully. (0x0)

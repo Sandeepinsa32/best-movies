@@ -6,6 +6,7 @@
 body {
   background-color: #222;
   font-family: "Kalam", cursive;
+  height: 100vh !important;
 }
 .heading-div {
   height: fit-content;
@@ -57,9 +58,29 @@ body {
 .breaking-line {
   margin: 0 20%;
 }
+.movies-list{
+  color: #0ba376;
+  font-size: 32px;
+  font-weight: bolder;
+  text-transform: uppercase;
+  list-style-type: none;
+  padding: 1rem;
+  border: 1px solid #D1D5DB;
+  width: 60%;
+  margin: 1rem auto;
+  border-radius: 0.5rem;
 
+
+}
+.movies-list-text{
+  /* color: #fff; */
+  /* background: #0ba376; */
+}
 @media only screen and (max-width: 1024px) {
   .skill-btn {
     margin: 0;
+  }
+  .movies-list{
+    width: 90%;
   }
 }
