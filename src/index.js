@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-// import AppTany from "./AppTanyPratap";
+// import NeoG from "./NeoGrammer";
 import App from "./App";
 
 const rootElement = document.getElementById("root");

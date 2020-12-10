@@ -15,12 +15,12 @@ const bookDB = {
 
   business: [
                 { name: "80 Law's Of Power",rating: "3.5/5" },
-                { name: "The 80/20 Principle",rating: "5/5" }
+                { name: "The 80/20 Principlez",rating: "5/5" }
             ]
 
                 };
 
-export default function AppTanay() {
+export default function NeoG() {
 
   const [selectedGenre, setGenre] = useState("business");
 

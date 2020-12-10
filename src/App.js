@@ -22,39 +22,9 @@ export default function App() {
            const [onClick, setOnClick] = useState("Hollywood")
 
       function onClickHandler(genre){
-          
-              //  console.log(movieDB[genre]);
-                // var moviesList = movieDB[genre]
-                
-           
-
-                // var element = movieDB[genre].map((movie) => 
-                //                     { return <li
-                //                                 key={movie.name}
-                //                                 className="movies-list">
-                //                                     <span className="movies-list-text">
-                //                                     {" "}
-                //                                     <div style={{ fontSize: "larger" }}> {movie.name} </div>
-                //                                     <div style={{ fontSize: "smaller" }}> {movie.rating} </div>
-                                                    
-                //                                     </span>               
-                //                           </li>
-                //              })
-
-                setOnClick(genre)
-                
-                  
-                  
-                }
-                
-
-
-
-
-
-
-
-
+                                  setOnClick(genre)
+                            }
+    
   return (
           <React.Fragment>
               <div className="heading-div">

@@ -14,7 +14,6 @@ body {
   text-align: Center;
 }
 .heading-text {
-  /* background-color: cyan; */
   text-decoration: underline;
   color: #0ba376;
 }
@@ -31,7 +30,6 @@ body {
   color: #fff !important;
   text-shadow: none !important;
   background-color: transparent !important;
-  /* border-radius: 30px !important; */
   font-family: "Kalam", cursive;
   box-shadow: 0 10px 10px -8px rgba(0, 0, 0, 0.22) !important;
   cursor: pointer;
@@ -72,10 +70,7 @@ body {
 
 
 }
-.movies-list-text{
-  /* color: #fff; */
-  /* background: #0ba376; */
-}
+
 @media only screen and (max-width: 1024px) {
   .skill-btn {
     margin: 0;
